@@ -22,3 +22,5 @@ ChartJs documnetation: https://www.chartjs.org/docs/latest/
 
 
 NOTE: react_frontend folder is missng mode_modules files. we have to receate the app again.
+
+# Super user: Todo
