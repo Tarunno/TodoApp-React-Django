@@ -51,7 +51,7 @@ class Home extends Component{
                 title: '',
                 completed: false,
             },
-			editing: false,
+	editing: false,
         });
     }
 
