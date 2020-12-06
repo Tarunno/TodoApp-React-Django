@@ -15,6 +15,8 @@ class Home extends Component{
             },
             editing: false,
         }
+		
+	// I have binded every function but it's only needed for event handler
         this.fetchTask = this.fetchTask.bind(this);
         this.handleChange = this.handleChange.bind(this);
         this.handleSubmit = this.handleSubmit.bind(this);
