@@ -20,7 +20,7 @@ class Home extends Component{
         this.handleSubmit = this.handleSubmit.bind(this);
         this.resetActiveItem = this.resetActiveItem.bind(this);
         this.getToken = this.getToken.bind(this);
-		this.EditTodo = this.EditTodo.bind(this);
+	this.EditTodo = this.EditTodo.bind(this);
     };
 
     // CSRF token
