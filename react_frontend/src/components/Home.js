@@ -74,7 +74,6 @@ class Home extends Component{
     }
 
     handleChange = (e) => {
-        var name = e.target.name;
         var value = e.target.value;
         this.setState({
             activeItem:{
